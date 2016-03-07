@@ -25,7 +25,7 @@ color:
   brandStrength: 0
   lightness: 0.833757
   saturation: 0
-  rhythmicContrast: 0.258125
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
