@@ -1,4 +1,20 @@
-analytics: {}
+name: FSK
+favicon: null
+layout_spectrum: 0.72973
+typography_spectrum: 0.2005356769214235
+title: FOODS BY SHAAN KAPOOR
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -8,11 +24,9 @@ color:
     - '#3B28CC'
   brandStrength: 0
   lightness: 0.833757
-  rhythmicContrast: 0.258125
   saturation: 0
-cta: {}
-layout_spectrum: 0.72973
-name: FSK
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.2005356769214235
+  rhythmicContrast: 0.258125
+purpose:
+  - name: null
+    item: null
+    url: null
