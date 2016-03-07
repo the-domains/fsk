@@ -6,10 +6,10 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9573690745987286
-  lightness: 0.8337571838573852
-  rhythmicContrast: 0.2581254588014199
-  saturation: 0.2964799096350873
+  brandStrength: 0
+  lightness: 0.833757
+  rhythmicContrast: 0.258125
+  saturation: 0
 cta: {}
 layout_spectrum: 0.1558385258815903
 name: FSK
